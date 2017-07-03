@@ -117,3 +117,5 @@ Y puede ser [el propio texto]
 | celda 1 A | celda 2 A | celda 3 A|
 | celda 1 B | celda 2 B | celda 3 B|
 
+### Hay algo que necesito y no está
+Pódemos usar etiquetas HTML como <strong> negrita <strong>, no es recomendable.
