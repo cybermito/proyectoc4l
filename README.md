@@ -7,9 +7,18 @@ Esto es un segundo párrafo
 
 ## Vámos a continuación a ver el lenguaje Markdown
 
-Los párrafos van separados por una línea en blanco
-Esto no va separado, sigue siendo el mismo parrafo
+Los párrafos van separados por una línea en blanco.
+Esto no va separado, sigue siendo el mismo parrafo.
 
-Esto es otro párrafo
+Esto es otro párrafo.
 
 Y este es otro.
+
+# Cabeceras - Títulos
+
+# Cabecera H1
+## Cabecera H2
+### Cabecera H3
+#### Cabecera H4
+Se indican con # según tipo de cabecera.
+
