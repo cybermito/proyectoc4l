@@ -20,5 +20,7 @@ Y este es otro.
 ## Cabecera H2
 ### Cabecera H3
 #### Cabecera H4
+##### Cabecera H5
+###### Cabecera H6
 Se indican con # según tipo de cabecera.
 
